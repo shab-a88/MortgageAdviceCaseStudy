@@ -1,0 +1,13 @@
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\bin\Debug\netcoreapp3.1\MortgageAdviceTech.exe
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\bin\Debug\netcoreapp3.1\MortgageAdviceTech.deps.json
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\bin\Debug\netcoreapp3.1\MortgageAdviceTech.runtimeconfig.json
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\bin\Debug\netcoreapp3.1\MortgageAdviceTech.runtimeconfig.dev.json
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\bin\Debug\netcoreapp3.1\MortgageAdviceTech.dll
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\bin\Debug\netcoreapp3.1\MortgageAdviceTech.pdb
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\obj\Debug\netcoreapp3.1\MortgageAdviceTech.csprojAssemblyReference.cache
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\obj\Debug\netcoreapp3.1\MortgageAdviceTech.csproj.CoreCompileInputs.cache
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\obj\Debug\netcoreapp3.1\MortgageAdviceTech.AssemblyInfoInputs.cache
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\obj\Debug\netcoreapp3.1\MortgageAdviceTech.AssemblyInfo.cs
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\obj\Debug\netcoreapp3.1\MortgageAdviceTech.dll
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\obj\Debug\netcoreapp3.1\MortgageAdviceTech.pdb
+C:\Users\Shab\Desktop\MortgageAdviceTech\MortgageAdviceTech\obj\Debug\netcoreapp3.1\MortgageAdviceTech.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "xmGKD52vPH6y9asoDOLqlF/WESQy++G8bvLhVZ8vt4zRFpg7NZWr9Hf/T9EbOMQ7dNIyS1yWbj33D+MGqEJa+Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Shab\\Desktop\\MortgageAdviceTech\\Palindromes\\Palindromes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MortgageAdviceTech.Tests is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project MortgageAdviceTech.Tests supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "MortgageAdviceTech.Tests",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project MortgageAdviceTech is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project MortgageAdviceTech supports: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "MortgageAdviceTech",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

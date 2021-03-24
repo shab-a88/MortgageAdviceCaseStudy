@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortgageAdviceTech", "MortgageAdviceTech\MortgageAdviceTech.csproj", "{7A139F14-E31D-4943-965A-B7410920746C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MortgageAdviceTech.Tests", "MortgageAdviceTech.Tests\MortgageAdviceTech.Tests.csproj", "{5BDC7555-AEC0-4D7F-AD57-6068887BB044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A139F14-E31D-4943-965A-B7410920746C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A139F14-E31D-4943-965A-B7410920746C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A139F14-E31D-4943-965A-B7410920746C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A139F14-E31D-4943-965A-B7410920746C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDC7555-AEC0-4D7F-AD57-6068887BB044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDC7555-AEC0-4D7F-AD57-6068887BB044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDC7555-AEC0-4D7F-AD57-6068887BB044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDC7555-AEC0-4D7F-AD57-6068887BB044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B5FD223-FBC1-4AA6-B185-26DDF7932729}
+	EndGlobalSection
+EndGlobal
